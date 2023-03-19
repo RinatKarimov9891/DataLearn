@@ -24,7 +24,7 @@ Business users have an access to all Data by using I Business Intelligence tools
 ![Screnshot](https://github.com/RinatKarimov9891/DataLearn/blob/main/de101/module01/Data%20architecture.png)
 
 
-2. Data Analytics (MS Excel)
+## 2. Data Analytics (MS Excel)
 
 **Materials.**<br/>
 [Build Steps DashBord](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/build_steps_dashboard.md)<br/>
