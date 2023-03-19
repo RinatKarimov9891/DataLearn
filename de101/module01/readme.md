@@ -11,3 +11,4 @@ Should have 2 layers for Data, Staging - a copy og all Data from Source Layer, B
 3. Business Layer.
 Business users have an access to all Data by using I Business Intelligence tools (Tableau, Power BI, SAP BO, Excel, QlikView) or SQL. There is connection to the systems for the generating of reports.
 
+![Screnshot](https://github.com/RinatKarimov9891/DataLearn/blob/main/de101/module01/Data%20architecture.png)
